@@ -1,0 +1,2 @@
+# No external dependencies — uses Python stdlib only.
+# Gemini is called via its REST API directly with urllib.
